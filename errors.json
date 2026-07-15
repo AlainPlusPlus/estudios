@@ -26,7 +26,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:30.266Z"
+    "date": "2026-07-15T04:09:12.834Z"
   },
   {
     "link": "https://ansimuz.com/site/",
@@ -54,7 +54,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:30.636Z"
+    "date": "2026-07-15T04:09:13.237Z"
   },
   {
     "link": "https://www.chronographstudio.com/",
@@ -83,7 +83,35 @@
       },
       "code": "ERR_TLS_CERT_ALTNAME_INVALID"
     },
-    "date": "2026-07-14T04:07:31.686Z"
+    "date": "2026-07-15T04:09:13.751Z"
+  },
+  {
+    "link": "https://cometagames.mx/",
+    "error": {
+      "message": "Request failed with status code 403",
+      "name": "Error",
+      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "config": {
+        "url": "https://cometagames.mx/",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      }
+    },
+    "date": "2026-07-15T04:09:13.838Z"
   },
   {
     "link": "https://estacionpi.mx/",
@@ -112,7 +140,7 @@
       },
       "code": "ERR_TLS_CERT_ALTNAME_INVALID"
     },
-    "date": "2026-07-14T04:07:32.262Z"
+    "date": "2026-07-15T04:09:14.102Z"
   },
   {
     "link": "https://www.fuxcorp.net/",
@@ -141,7 +169,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:32.589Z"
+    "date": "2026-07-15T04:09:14.174Z"
   },
   {
     "link": "https://gnomael.com/",
@@ -170,7 +198,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:32.793Z"
+    "date": "2026-07-15T04:09:14.274Z"
   },
   {
     "link": "https://nefariousgamestudios.com/",
@@ -199,7 +227,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:34.798Z"
+    "date": "2026-07-15T04:09:14.961Z"
   },
   {
     "link": "http://megalixirgames.com/",
@@ -228,36 +256,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:36.825Z"
-  },
-  {
-    "link": "https://www.mismatch.studio/",
-    "error": {
-      "message": "Hostname/IP does not match certificate's altnames: Host: www.mismatch.studio. is not in the cert's altnames: DNS:mismatch.studio",
-      "name": "Error",
-      "stack": "Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.mismatch.studio. is not in the cert's altnames: DNS:mismatch.studio\n    at new NodeError (internal/errors.js:322:7)\n    at Object.checkServerIdentity (tls.js:347:12)\n    at TLSSocket.onConnectSecure (_tls_wrap.js:1525:27)\n    at TLSSocket.emit (events.js:400:28)\n    at TLSSocket._finishInit (_tls_wrap.js:937:8)\n    at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:709:12)",
-      "config": {
-        "url": "https://www.mismatch.studio/",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "ERR_TLS_CERT_ALTNAME_INVALID"
-    },
-    "date": "2026-07-14T04:07:37.172Z"
+    "date": "2026-07-15T04:09:15.908Z"
   },
   {
     "link": "https://alebrije.co/",
@@ -286,7 +285,7 @@
       },
       "code": "ERR_TLS_CERT_ALTNAME_INVALID"
     },
-    "date": "2026-07-14T04:07:37.357Z"
+    "date": "2026-07-15T04:09:16.164Z"
   },
   {
     "link": "https://www.xibalbastudios.com/",
@@ -314,7 +313,36 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:37.487Z"
+    "date": "2026-07-15T04:09:16.188Z"
+  },
+  {
+    "link": "https://www.mismatch.studio/",
+    "error": {
+      "message": "Hostname/IP does not match certificate's altnames: Host: www.mismatch.studio. is not in the cert's altnames: DNS:mismatch.studio",
+      "name": "Error",
+      "stack": "Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: www.mismatch.studio. is not in the cert's altnames: DNS:mismatch.studio\n    at new NodeError (internal/errors.js:322:7)\n    at Object.checkServerIdentity (tls.js:347:12)\n    at TLSSocket.onConnectSecure (_tls_wrap.js:1525:27)\n    at TLSSocket.emit (events.js:400:28)\n    at TLSSocket._finishInit (_tls_wrap.js:937:8)\n    at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:709:12)",
+      "config": {
+        "url": "https://www.mismatch.studio/",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      },
+      "code": "ERR_TLS_CERT_ALTNAME_INVALID"
+    },
+    "date": "2026-07-15T04:09:16.588Z"
   },
   {
     "link": "https://www.dracmastudios.com/",
@@ -342,7 +370,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:37.742Z"
+    "date": "2026-07-15T04:09:16.848Z"
   },
   {
     "link": "https://www.computerlove.mx",
@@ -371,7 +399,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:38.436Z"
+    "date": "2026-07-15T04:09:17.026Z"
   },
   {
     "link": "https://unboxed.games",
@@ -400,7 +428,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:38.623Z"
+    "date": "2026-07-15T04:09:17.198Z"
   },
   {
     "link": "http://the-bigkey.com/",
@@ -429,7 +457,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:38.748Z"
+    "date": "2026-07-15T04:09:17.232Z"
   },
   {
     "link": "https://www.ajalgamedevs.com",
@@ -458,36 +486,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:38.894Z"
-  },
-  {
-    "link": "https://www.metastudios.jp/",
-    "error": {
-      "message": "certificate has expired",
-      "name": "Error",
-      "stack": "Error: certificate has expired\n    at TLSSocket.onConnectSecure (_tls_wrap.js:1515:34)\n    at TLSSocket.emit (events.js:400:28)\n    at TLSSocket._finishInit (_tls_wrap.js:937:8)\n    at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:709:12)",
-      "config": {
-        "url": "https://www.metastudios.jp/",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "CERT_HAS_EXPIRED"
-    },
-    "date": "2026-07-14T04:07:39.018Z"
+    "date": "2026-07-15T04:09:17.257Z"
   },
   {
     "link": "http://hannie-echo.com/",
@@ -516,7 +515,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:39.023Z"
+    "date": "2026-07-15T04:09:17.430Z"
   },
   {
     "link": "https://4m2q.com/",
@@ -544,7 +543,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:39.182Z"
+    "date": "2026-07-15T04:09:17.524Z"
   },
   {
     "link": "https://netsites.mx/bledagamestudios/#xl_xr_page_index.html",
@@ -573,7 +572,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:39.274Z"
+    "date": "2026-07-15T04:09:17.528Z"
   },
   {
     "link": "http://www.cerevrovi.com/",
@@ -602,7 +601,36 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:39.305Z"
+    "date": "2026-07-15T04:09:17.614Z"
+  },
+  {
+    "link": "https://www.metastudios.jp/",
+    "error": {
+      "message": "certificate has expired",
+      "name": "Error",
+      "stack": "Error: certificate has expired\n    at TLSSocket.onConnectSecure (_tls_wrap.js:1515:34)\n    at TLSSocket.emit (events.js:400:28)\n    at TLSSocket._finishInit (_tls_wrap.js:937:8)\n    at TLSWrap.ssl.onhandshakedone (_tls_wrap.js:709:12)",
+      "config": {
+        "url": "https://www.metastudios.jp/",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      },
+      "code": "CERT_HAS_EXPIRED"
+    },
+    "date": "2026-07-15T04:09:17.620Z"
   },
   {
     "link": "https://www.popslinger.com/",
@@ -630,7 +658,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:39.786Z"
+    "date": "2026-07-15T04:09:17.887Z"
   },
   {
     "link": "http://www.poiesusgames.com/",
@@ -659,7 +687,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:39.843Z"
+    "date": "2026-07-15T04:09:17.911Z"
   },
   {
     "link": "http://www.chundos.com",
@@ -687,7 +715,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:40.234Z"
+    "date": "2026-07-15T04:09:18.123Z"
   },
   {
     "link": "http://mars-games.net/",
@@ -716,7 +744,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:40.705Z"
+    "date": "2026-07-15T04:09:18.539Z"
   },
   {
     "link": "https://www.maculainteractive.com",
@@ -744,7 +772,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:40.814Z"
+    "date": "2026-07-15T04:09:18.614Z"
   },
   {
     "link": "https://blusagi.team",
@@ -773,7 +801,7 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:41.075Z"
+    "date": "2026-07-15T04:09:18.698Z"
   },
   {
     "link": "https://linktr.ee/teporingosgames",
@@ -801,63 +829,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:41.248Z"
-  },
-  {
-    "link": "https://chilli-to-games.fmpromotion.mx",
-    "error": {
-      "message": "Request failed with status code 403",
-      "name": "Error",
-      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
-      "config": {
-        "url": "https://chilli-to-games.fmpromotion.mx",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      }
-    },
-    "date": "2026-07-14T04:07:41.516Z"
-  },
-  {
-    "link": "https://www.deviantart.com/daltair",
-    "error": {
-      "message": "Request failed with status code 403",
-      "name": "Error",
-      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
-      "config": {
-        "url": "https://www.deviantart.com/daltair",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      }
-    },
-    "date": "2026-07-14T04:07:41.568Z"
+    "date": "2026-07-15T04:09:18.890Z"
   },
   {
     "link": "https://www.deadboltinteractive.com",
@@ -886,7 +858,35 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:41.590Z"
+    "date": "2026-07-15T04:09:19.085Z"
+  },
+  {
+    "link": "https://chilli-to-games.fmpromotion.mx",
+    "error": {
+      "message": "Request failed with status code 403",
+      "name": "Error",
+      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "config": {
+        "url": "https://chilli-to-games.fmpromotion.mx",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      }
+    },
+    "date": "2026-07-15T04:09:19.190Z"
   },
   {
     "link": "https://dogbiscuitstudios.mx",
@@ -915,16 +915,16 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:41.787Z"
+    "date": "2026-07-15T04:09:19.251Z"
   },
   {
-    "link": "https://gamesrom.com.mx",
+    "link": "https://ihtoa.games",
     "error": {
-      "message": "Request failed with status code 403",
+      "message": "Request failed with status code 526",
       "name": "Error",
-      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "stack": "Error: Request failed with status code 526\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
       "config": {
-        "url": "https://gamesrom.com.mx",
+        "url": "https://ihtoa.games",
         "method": "get",
         "headers": {
           "Accept": "application/json, text/plain, */*",
@@ -943,7 +943,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:42.114Z"
+    "date": "2026-07-15T04:09:19.728Z"
   },
   {
     "link": "https://jeetpgames.com",
@@ -971,7 +971,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:42.837Z"
+    "date": "2026-07-15T04:09:19.803Z"
   },
   {
     "link": "https://www.onegame.studio",
@@ -999,42 +999,14 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:43.710Z"
-  },
-  {
-    "link": "https://nachonlab.itch.io",
-    "error": {
-      "message": "Request failed with status code 404",
-      "name": "Error",
-      "stack": "Error: Request failed with status code 404\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
-      "config": {
-        "url": "https://nachonlab.itch.io",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      }
-    },
-    "date": "2026-07-14T04:07:43.729Z"
+    "date": "2026-07-15T04:09:20.421Z"
   },
   {
     "link": "https://www.ufungames.com",
     "error": {
-      "message": "write EPROTO 140640863095744:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80\n",
+      "message": "write EPROTO 140159732595648:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80\n",
       "name": "Error",
-      "stack": "Error: write EPROTO 140640863095744:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80\n\n    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)",
+      "stack": "Error: write EPROTO 140159732595648:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1563:SSL alert number 80\n\n    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)",
       "config": {
         "url": "https://www.ufungames.com",
         "method": "get",
@@ -1056,7 +1028,7 @@
       },
       "code": "EPROTO"
     },
-    "date": "2026-07-14T04:07:44.002Z"
+    "date": "2026-07-15T04:09:20.585Z"
   },
   {
     "link": "https://quachic.games",
@@ -1085,16 +1057,16 @@
       },
       "code": "ENOTFOUND"
     },
-    "date": "2026-07-14T04:07:44.228Z"
+    "date": "2026-07-15T04:09:20.769Z"
   },
   {
-    "link": "https://linktr.ee/culto_interactivo",
+    "link": "https://nachonlab.itch.io",
     "error": {
-      "message": "Request failed with status code 406",
+      "message": "Request failed with status code 404",
       "name": "Error",
-      "stack": "Error: Request failed with status code 406\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "stack": "Error: Request failed with status code 404\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
       "config": {
-        "url": "https://linktr.ee/culto_interactivo",
+        "url": "https://nachonlab.itch.io",
         "method": "get",
         "headers": {
           "Accept": "application/json, text/plain, */*",
@@ -1113,35 +1085,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:45.109Z"
-  },
-  {
-    "link": "https://panditastudio.com",
-    "error": {
-      "message": "Request failed with status code 403",
-      "name": "Error",
-      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
-      "config": {
-        "url": "https://panditastudio.com",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      }
-    },
-    "date": "2026-07-14T04:07:45.109Z"
+    "date": "2026-07-15T04:09:20.954Z"
   },
   {
     "link": "https://www.kickstarter.com/projects/nuezware/rain-in-the-abyss-a-survivalhorror-metroidvania",
@@ -1169,7 +1113,63 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:45.158Z"
+    "date": "2026-07-15T04:09:21.021Z"
+  },
+  {
+    "link": "https://panditastudio.com",
+    "error": {
+      "message": "Request failed with status code 403",
+      "name": "Error",
+      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "config": {
+        "url": "https://panditastudio.com",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      }
+    },
+    "date": "2026-07-15T04:09:21.023Z"
+  },
+  {
+    "link": "https://linktr.ee/culto_interactivo",
+    "error": {
+      "message": "Request failed with status code 406",
+      "name": "Error",
+      "stack": "Error: Request failed with status code 406\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "config": {
+        "url": "https://linktr.ee/culto_interactivo",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      }
+    },
+    "date": "2026-07-15T04:09:21.197Z"
   },
   {
     "link": "https://www.flowcode.com/page/evilgeometry",
@@ -1197,35 +1197,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:46.854Z"
-  },
-  {
-    "link": "https://www.inmersys.com/",
-    "error": {
-      "message": "Request failed with status code 403",
-      "name": "Error",
-      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
-      "config": {
-        "url": "https://www.inmersys.com/",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      }
-    },
-    "date": "2026-07-14T04:07:47.206Z"
+    "date": "2026-07-15T04:09:22.126Z"
   },
   {
     "link": "http://hollowgames.com.mx/",
@@ -1254,7 +1226,7 @@
       },
       "code": "CERT_HAS_EXPIRED"
     },
-    "date": "2026-07-14T04:07:47.442Z"
+    "date": "2026-07-15T04:09:25.704Z"
   },
   {
     "link": "http://squad.com.mx/",
@@ -1282,7 +1254,35 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:47.710Z"
+    "date": "2026-07-15T04:09:26.405Z"
+  },
+  {
+    "link": "https://www.inmersys.com/",
+    "error": {
+      "message": "Request failed with status code 403",
+      "name": "Error",
+      "stack": "Error: Request failed with status code 403\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:260:11)\n    at IncomingMessage.emit (events.js:412:35)\n    at endReadableNT (internal/streams/readable.js:1333:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)",
+      "config": {
+        "url": "https://www.inmersys.com/",
+        "method": "get",
+        "headers": {
+          "Accept": "application/json, text/plain, */*",
+          "User-Agent": "axios/0.21.1"
+        },
+        "transformRequest": [
+          null
+        ],
+        "transformResponse": [
+          null
+        ],
+        "timeout": 50000,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1
+      }
+    },
+    "date": "2026-07-15T04:09:26.502Z"
   },
   {
     "link": "https://amensgames.com",
@@ -1310,7 +1310,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:48.445Z"
+    "date": "2026-07-15T04:09:26.975Z"
   },
   {
     "link": "https://www.figment.com.mx/",
@@ -1338,7 +1338,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:07:50.260Z"
+    "date": "2026-07-15T04:09:27.686Z"
   },
   {
     "link": "http://growlinga.com/es/",
@@ -1367,7 +1367,7 @@
       },
       "code": "EAI_AGAIN"
     },
-    "date": "2026-07-14T04:07:50.378Z"
+    "date": "2026-07-15T04:09:28.326Z"
   },
   {
     "link": "https://www.pinknoisestudios.com",
@@ -1395,7 +1395,7 @@
         "maxBodyLength": -1
       }
     },
-    "date": "2026-07-14T04:08:03.088Z"
+    "date": "2026-07-15T04:09:39.807Z"
   },
   {
     "link": "http://artefactoestudio.com/",
@@ -1424,7 +1424,7 @@
       },
       "code": "ECONNABORTED"
     },
-    "date": "2026-07-14T04:08:20.055Z"
+    "date": "2026-07-15T04:10:02.835Z"
   },
   {
     "link": "https://cosmogonia.mx/",
@@ -1453,65 +1453,7 @@
       },
       "code": "ECONNABORTED"
     },
-    "date": "2026-07-14T04:08:20.055Z"
-  },
-  {
-    "link": "https://luisquid.me",
-    "error": {
-      "message": "timeout of 50000ms exceeded",
-      "name": "Error",
-      "stack": "Error: timeout of 50000ms exceeded\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at RedirectableRequest.handleRequestTimeout (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:280:16)\n    at Object.onceWrapper (events.js:519:28)\n    at RedirectableRequest.emit (events.js:400:28)\n    at Timeout.<anonymous> (/home/runner/work/estudios/estudios/.github/actions/node_modules/follow-redirects/index.js:166:13)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)",
-      "config": {
-        "url": "https://luisquid.me",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "ECONNABORTED"
-    },
-    "date": "2026-07-14T04:08:20.055Z"
-  },
-  {
-    "link": "http://deathrosa.com/",
-    "error": {
-      "message": "timeout of 50000ms exceeded",
-      "name": "Error",
-      "stack": "Error: timeout of 50000ms exceeded\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at RedirectableRequest.handleRequestTimeout (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:280:16)\n    at Object.onceWrapper (events.js:519:28)\n    at RedirectableRequest.emit (events.js:400:28)\n    at Timeout.<anonymous> (/home/runner/work/estudios/estudios/.github/actions/node_modules/follow-redirects/index.js:166:13)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)",
-      "config": {
-        "url": "http://deathrosa.com/",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "ECONNABORTED"
-    },
-    "date": "2026-07-14T04:08:20.055Z"
+    "date": "2026-07-15T04:10:02.835Z"
   },
   {
     "link": "http://alusorstroke.com",
@@ -1540,64 +1482,6 @@
       },
       "code": "ECONNABORTED"
     },
-    "date": "2026-07-14T04:08:20.056Z"
-  },
-  {
-    "link": "https://vrdemons.com",
-    "error": {
-      "message": "timeout of 50000ms exceeded",
-      "name": "Error",
-      "stack": "Error: timeout of 50000ms exceeded\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at RedirectableRequest.handleRequestTimeout (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:280:16)\n    at Object.onceWrapper (events.js:519:28)\n    at RedirectableRequest.emit (events.js:400:28)\n    at Timeout.<anonymous> (/home/runner/work/estudios/estudios/.github/actions/node_modules/follow-redirects/index.js:166:13)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)",
-      "config": {
-        "url": "https://vrdemons.com",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "ECONNABORTED"
-    },
-    "date": "2026-07-14T04:08:20.056Z"
-  },
-  {
-    "link": "https://www.raptware.com/",
-    "error": {
-      "message": "timeout of 50000ms exceeded",
-      "name": "Error",
-      "stack": "Error: timeout of 50000ms exceeded\n    at createError (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/core/createError.js:16:15)\n    at RedirectableRequest.handleRequestTimeout (/home/runner/work/estudios/estudios/.github/actions/node_modules/axios/lib/adapters/http.js:280:16)\n    at Object.onceWrapper (events.js:519:28)\n    at RedirectableRequest.emit (events.js:400:28)\n    at Timeout.<anonymous> (/home/runner/work/estudios/estudios/.github/actions/node_modules/follow-redirects/index.js:166:13)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)",
-      "config": {
-        "url": "https://www.raptware.com/",
-        "method": "get",
-        "headers": {
-          "Accept": "application/json, text/plain, */*",
-          "User-Agent": "axios/0.21.1"
-        },
-        "transformRequest": [
-          null
-        ],
-        "transformResponse": [
-          null
-        ],
-        "timeout": 50000,
-        "xsrfCookieName": "XSRF-TOKEN",
-        "xsrfHeaderName": "X-XSRF-TOKEN",
-        "maxContentLength": -1,
-        "maxBodyLength": -1
-      },
-      "code": "ECONNABORTED"
-    },
-    "date": "2026-07-14T04:08:20.056Z"
+    "date": "2026-07-15T04:10:02.836Z"
   }
 ]
